@@ -1,5 +1,4 @@
-# My-Portfolio-
-My personal resume and portfolio website built with HTML and CSS.
+This Is My Portofolio Built with HTML
 This is my web development project.
 
 Technologies:
